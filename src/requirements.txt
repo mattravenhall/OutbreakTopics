@@ -1,0 +1,8 @@
+gensim
+matplotlib
+nltk>=3.5
+numpy
+pandas
+pyLDAvis
+sklearn
+wordcloud
